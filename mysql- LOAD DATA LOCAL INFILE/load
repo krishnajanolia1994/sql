@@ -1,0 +1,4 @@
+mysql> LOAD DATA LOCAL INFILE '/path/pet.txt' INTO TABLE pet;
+To load the text file pet.txt into the pet table, use this statement:
+
+load a file
